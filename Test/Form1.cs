@@ -27,5 +27,10 @@ namespace Test
             //提交测试，测试，测试
             MessageBox.Show("GitHub ，使用方法，先创建项目，（Git更改）再创建仓库（视图->Git更改）");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("你好");
+        }
     }
 }
